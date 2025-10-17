@@ -25,3 +25,26 @@ python defenses/data_validation.py
 
 # Test model monitoring
 python defenses/model_monitoring.py
+
+
+Business Impact
+
+A successful attack could cost:
+
+    Small fintech: R2M+ monthly in undetected fraud
+
+    Enterprise bank: R10M+ in losses and regulatory fines
+
+Get Professional Help
+
+This demo shows basic principles. For enterprise-grade AI security assessment of your systems, contact me.
+
+I help financial institutions:
+
+    Identify AI vulnerabilities
+
+    Implement robust defenses
+
+    Maintain continuous security monitoring
+
+Email: lethabomalebana0@gmail.com
