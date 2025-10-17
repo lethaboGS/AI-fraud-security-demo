@@ -2,7 +2,7 @@
 
 ## 🎯 Live Interactive Demo
 
-**👉 [View the Interactive Notebook](Fraud_AI_Security_Demo.ipynb)**
+**👉 [View the Interactive Notebook]https://github.com/lethaboGS/AI-fraud-security-demo/commit/e6ae1f2062da5fdda61c602e3afb6caec7eb0eac**
 
 Click the link above to see a complete, working demonstration of:
 - AI fraud detection system
