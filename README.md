@@ -1,50 +1,49 @@
-# AI Fraud Security Framework
+# AI Fraud Security Demo
 
-**From Vulnerability to Solution: Complete AI Security for Financial Systems**
+## 🎯 Live Interactive Demo
 
-##  What This Demonstrates
+**👉 [View the Interactive Notebook](Fraud_AI_Security_Demo.ipynb)**
 
-I don't just find problems - I build solutions.
+Click the link above to see a complete, working demonstration of:
+- AI fraud detection system
+- Data poisoning attack
+- Defense mechanisms  
+- Financial impact analysis
+- 85x ROI on security assessment
 
-### Attacks Included:
-- `attacks/data_poisoning.py` - How training data can be corrupted
-- `attacks/model_evasion.py` - How fraud can bypass detection
+## 🚀 Quick Start
 
-### Defenses Implemented:
-- `defenses/data_validation.py` - Detect and prevent data poisoning
-- `defenses/model_monitoring.py` - Real-time model protection
+The notebook is fully interactive and viewable directly on GitHub. No setup required!
 
-##  Quick Start
+## 🔧 Solutions Included
 
-```bash
-# Run data poisoning demo
-python attacks/data_poisoning.py
+### 1. Data Supply Chain Security
+- Automated poisoning detection
+- Data lineage tracking
+- Statistical anomaly detection
 
-# Run data validation demo  
-python defenses/data_validation.py
+### 2. Model Protection
+- Adversarial robustness training
+- Real-time performance monitoring
+- Automated threat response
 
-# Test model monitoring
-python defenses/model_monitoring.py
+### 3. Continuous Security
+- MLOps security integration
+- Compliance monitoring (POPIA/GDPR)
+- Incident response protocols
 
+## 🎯 Why This Matters
 
-Business Impact
+**Most security consultants show you what's broken. I show you how to fix it.**
 
-A successful attack could cost:
+This repository demonstrates my methodology:
+1. **Identify** vulnerabilities through rigorous testing
+2. **Implement** practical, scalable defenses
+3. **Monitor** for emerging threats
+4. **Iterate** as attack techniques evolve
 
-    Small fintech: R2M+ monthly in undetected fraud
+## 💼 Professional Services
 
-    Enterprise bank: R10M+ in losses and regulatory fines
+Contact me for a real security assessment of your AI systems.
 
-Get Professional Help
-
-This demo shows basic principles. For enterprise-grade AI security assessment of your systems, contact me.
-
-I help institutions:
-
-    Identify AI vulnerabilities
-
-    Implement robust defenses
-
-    Maintain continuous security monitoring
-
-Email: lethabomalebana0@gmail.com
+**Email:** lethabomalebana0@gmail.com
