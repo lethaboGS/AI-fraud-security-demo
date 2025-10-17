@@ -39,7 +39,7 @@ Get Professional Help
 
 This demo shows basic principles. For enterprise-grade AI security assessment of your systems, contact me.
 
-I help financial institutions:
+I help institutions:
 
     Identify AI vulnerabilities
 
